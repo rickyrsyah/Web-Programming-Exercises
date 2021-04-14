@@ -5,6 +5,7 @@ $rows = explode("\n", fread($file, filesize($path)));
 for ($i=0; $i < count($rows); $i++) { 
 	$rows[$i] = explode("|", $rows[$i]);
 }
+fclose($file)
 ?>
 <html>
 	<head>
