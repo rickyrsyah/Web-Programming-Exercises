@@ -13,3 +13,14 @@
 ### Kegiatan 3
 3. _function_ ``fwrite()`` berfungsi untuk menulis data ke dalam  hasil buka file atau ``fopen()``.
 4. Mode akses "a" akan meletak pointer pada akhir file,  sedangkan mode akses "w" akan meletakkan pointer pada awal file.
+
+## Praktikum 06
+### Kegiatan 1
+5. Ya, nama pengguna sesuai dengan profil dari _username_ ketika _login_.
+6. Ya, dapat diakses walaupun setelah _logout_ dan juga muncul kata selamat datang.
+
+### Kegiatan 2
+3. Tidak.
+
+### Kegiatan 3
+2. Belum sesuai.
